@@ -50,6 +50,12 @@ header {
     color: black;
 }
 
+.rightHeader ul li a:hover {
+    border-top: 2px solid #FF6433;
+    border-bottom: 2px solid #FF6433;
+    border-radius: 5px;
+}
+
 .rightHeader-right {
     display: flex;
     padding-left: 20px;
